@@ -15,13 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
 <div align="center">
 
-# SIMRAN
+# SIMRAN 👋
 
-### BCA STUDENT | ASPIRING PENETRATION TESTER
+### BCA Student | Technology Enthusiast
 
-*Exploring technology, building projects and learning new skills.*
+*Learning, building and exploring new technologies.*
 
 </div>
 
@@ -29,63 +30,104 @@ Here are some ideas to get you started:
 
 ## 🚀 Featured Projects
 
-### 01. Linux Sentinel – SOC Triage & Investigation Toolkit
+<table>
+<tr>
+<td width="50%">
 
-- Built a security investigation toolkit using Bash, Python and Streamlit.
-- Focuses on SOC triage and security investigation workflows.
+### 🛡️ Linux Sentinel
 
-**Tech:** `Bash` `Python` `Streamlit`
+**SOC Triage & Investigation Toolkit**
 
-[🔗 View Repository](https://github.com/simranmithapeli21-sketch/linux-sentinel-soc-triage)
+Built a security investigation toolkit using Bash, Python and Streamlit.
 
----
+- SOC triage
+- Security investigation workflows
 
-### 02. ScamShield – Phishing URL Detection
+**Tech Stack:** `Bash` `Python` `Streamlit`
 
-- Developed a web application to detect scam and phishing URLs.
-- Uses heuristic-based detection and AI-generated reports.
+[↗ View Repository](https://github.com/simranmithapeli21-sketch/linux-sentinel-soc-triage)
 
-**Tech:** `Python` `Web Development` `AI`
+</td>
+<td width="50%">
 
-[🔗 View Repository](https://github.com/simranmithapeli21-sketch/ScamShield_Project)
+### 🔍 ScamShield
 
----
+**Phishing URL Detection**
 
-### 03. Zomato Delivery Website
+Developed a web application to detect scam and phishing URLs.
 
-- Developed a website clone using HTML, CSS and JavaScript.
-- Practiced frontend development and website design.
+- Heuristic-based detection
+- AI-generated reports
 
-**Tech:** `HTML` `CSS` `JavaScript`
+**Tech Stack:** `Python` `AI` `Web Development`
 
-[🔗 View Repository](https://github.com/simranmithapeli21-sketch/Zomato_delivery_Website)
+[↗ View Repository](https://github.com/simranmithapeli21-sketch/ScamShield_Project)
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+### 🍽️ Zomato Delivery Website
+
+Developed a website clone using HTML, CSS and JavaScript.
+
+- Frontend development
+- Website design
+
+**Tech Stack:** `HTML` `CSS` `JavaScript`
+
+[↗ View Repository](https://github.com/simranmithapeli21-sketch/Zomato_delivery_Website)
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🛠️ Skills & Technologies
 
-- **Programming:** C, C++, Python, Java
-- **Web Development:** HTML, CSS, JavaScript
-- **Networking:** CCNA
-- **Operating Systems:** Linux, Windows
-- **Cybersecurity:** Network Security, Windows Security
-- **Tools:** Wireshark, GitHub
+**Programming**
+
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+
+**Web Development**
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**Networking**
+
+![CCNA](https://img.shields.io/badge/CCNA-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+
+**Operating Systems**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white)
+
+**Cybersecurity & Tools**
+
+`Network Security` `Windows Security` `Wireshark` `GitHub`
 
 ---
 
 ## 📚 Currently Learning
 
-![SIEM](https://img.shields.io/badge/SIEM-Learning-0B1220?style=flat-square&logo=elastic&logoColor=00D4FF)
-![Splunk](https://img.shields.io/badge/Splunk-Learning-0B1220?style=flat-square&logo=splunk&logoColor=65A637)
+![SIEM](https://img.shields.io/badge/SIEM-Learning-172338?style=flat-square)
+![Splunk](https://img.shields.io/badge/Splunk-Learning-172338?style=flat-square&logo=splunk&logoColor=white)
 
-- SOC Operations
 - Security Monitoring
 - Log Analysis
+- SIEM Operations
 
 ---
 
 <div align="center">
 
-**LEARN • BUILD • EXPLORE**
+### ✦ LEARN • BUILD • EXPLORE ✦
 
 </div>
