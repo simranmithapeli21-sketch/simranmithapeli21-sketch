@@ -14,3 +14,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Featured Projects
+
+**1. Linux Sentinel – SOC Triage & Investigation Toolkit**
+- Built a security investigation toolkit using Bash, Python and Streamlit.
+- Focuses on SOC triage and security investigation workflows.
+
+**2. ScamShield – Phishing URL Detection**
+- Developed a web application to detect scam and phishing URLs.
+- Uses heuristic-based detection and AI-generated reports.
+
+**3. Zomato Delivery Website**
+- Developed a website clone using HTML, CSS and JavaScript.
+- Practiced frontend development and website design.
+
+  ## 🛠️ Skills & Technologies
+
+- **Programming:** C, C++, Python, Java
+- **Web Development:** HTML, CSS, JavaScript
+- **Networking:** CCNA
+- **Operating Systems:** Linux, Windows
+- **Cybersecurity:** Network Security, Windows Security
+- **Tools:** Wireshark, GitHub
